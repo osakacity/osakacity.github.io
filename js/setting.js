@@ -18,12 +18,12 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* osakacity cofog */
-  '11': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+  '11': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#C75746' },
   '1101': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '12': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#0AB971' },
+  '12': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#C75746' },
   '1201': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#0AB971' },
   '1202': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#0AB971' },
-  '13': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#4E6D00' },
+  '13': { icon: 'icons/our-streets.svg', color: '#C75746', bcolor: '#D33673' },
   '1301': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#4E6D00' },
   '1302': { icon: 'icons/harbor.svg', color: '#C75746', bcolor: '#4E6D00' },
   '1303': { icon: 'icons/culture.svg', color: '#C75746', bcolor: '#4E6D00' },
