@@ -18,6 +18,7 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* osakacity cofog */
+  '11': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#C75746' },
   '1101': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#C75746' },
   '1201': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#C75746' },
   '1301': { icon: 'icons/planning.svg', color: '#C75746', bcolor: '#D33673' },
