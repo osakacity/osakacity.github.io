@@ -10,7 +10,7 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'osakacityu_budget2014';
+OpenSpending.identifier = 'osakacity_budget2014';
 OpenSpending.year = '2014';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
