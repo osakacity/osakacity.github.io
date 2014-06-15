@@ -1,5 +1,5 @@
 UniqueKey,year,category_id,category,subcategory_id,subcategory,project_id,project,amount
-2014-01,2014,1,議会,1.1,議会費,project-1,議会費,2,844,000,000
+
 2014-02,2014,2,総務費,2.1,総務費,project-2,総務費,83,020,000,000
 2014-03,2014,3,まちづくり,3.1,都市計画費,project-3,都市計画費,10,128,000,000
 2014-09,2014,3,まちづくり,3.2,建設費,project-4,建設費,87,798,000,000
